@@ -30,7 +30,6 @@ No more sketchy meetups. No more scams.
 - 📍 **Real-Time Tracking** — Know where your stuff is
 - ⚡ **Express or Pool** — Your speed, your choice
 
-<
 
 </tr>
 </table>
@@ -99,7 +98,4 @@ _Research on Speech Emotion Recognition using Deep Learning_
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=saransh_ahuja17&style=for-the-badge&color=6366F1" />
-
 </div>
